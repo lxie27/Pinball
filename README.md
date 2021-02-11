@@ -1,5 +1,9 @@
 # Pinball
  A simple pinball game done in Unreal 4.
+ 
+ Instructions:
+ Start with 3 balls and 3 tilt uses
+ 
 
  Controls:\
  Left Ctrl for left flippers\
